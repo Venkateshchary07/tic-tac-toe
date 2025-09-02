@@ -16,5 +16,5 @@ Play against a friend locally, with reset and new game options.
 
 ## 🛠️ Tech Stack
 - **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
+- **CSS**
+- **JavaScript**
