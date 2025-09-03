@@ -1,11 +1,11 @@
-# 🎮 Tic Tac Toe Game
+#  Tic Tac Toe Game
 
 A simple and fun **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
 Play against a friend locally, with reset and new game options.
 
 ---
 
-## 🚀 Features
+##  Features
 - Two-player mode (Player O & Player X)
 - Detects winner automatically
 - Declares draw when no moves left
